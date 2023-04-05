@@ -1,0 +1,2 @@
+# YytTyporaImageHost
+For PicGo！
